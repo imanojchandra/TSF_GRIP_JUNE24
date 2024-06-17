@@ -28,9 +28,9 @@ In this project, I worked with the Iris dataset to predict the optimum number of
 - **Unsupervised Learning:**
   - Gained a deeper understanding of unsupervised machine learning techniques and their practical applications.
 
-LinkedIn Post: [View LinkedIn Post](https://lnkd.in/dfYD2cHP)
-<br>YouTube Video: [Watch the Project Walkthrough](https://lnkd.in/dfYD2cHP)
-<br>GitHub Repository: [View the Code and Analysis](https://lnkd.in/dFwg8qeD)
+LinkedIn Post: [View LinkedIn Post](https://www.linkedin.com/in/imanojchandra/)
+<br>YouTube Video: [Watch the Project Walkthrough](https://www.youtube.com/@imanojchandra)
+<br>GitHub Repository: [View the Code and Analysis](https://www.github.com/imanojchandra/TSF_GRIP_JUNE24/)
 
 Special thanks to The Sparks Foundation for this incredible learning opportunity and to my mentors and colleagues for their continuous support. Looking forward to applying these skills to future projects and contributing to the field of data science.
 
