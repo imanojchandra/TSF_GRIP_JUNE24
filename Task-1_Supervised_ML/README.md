@@ -13,7 +13,7 @@ In this project, I worked on predicting student scores based on the number of ho
 
 #### GitHub Repository: 
 Walkthrough the task on YouTube: [Task 1 - Supervised ML](https://youtu.be/68Q-r2mFffg?si=cjLsxJ52eMjbId9-)
-<br>LinkedIn Post: 
+<br>LinkedIn Post: [Let's Connect](https://www.linkedin.com/posts/imanojchandra_the-sparks-foundation-inspiringinnovating-activity-7208883058429587456-sZ1P?utm_source=share&utm_medium=member_desktop)
 
 I would like to thank The Sparks Foundation for providing this incredible opportunity and supporting my growth in the field of Data Science and Business Analytics.
 
