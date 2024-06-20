@@ -56,9 +56,9 @@ In this project, I utilized the Iris dataset to predict the optimal number of cl
 - **Unsupervised Learning**: Gained a deeper understanding of unsupervised machine learning techniques and their practical applications.
 
 #### Resources
-- [GitHub Repository](https://github.com/your-repo/task-2-unsupervised-ml)
-- [YouTube Walkthrough](https://lnkd.in/e6EUwJ2m)
-- [LinkedIn Post](https://lnkd.in/e9n76TWh)
+- [GitHub Repository](https://github.com/imanojchandra/TSF_GRIP_JUNE24/tree/main/Task-2_Unsupervised_ML)
+- [YouTube Walkthrough](https://youtu.be/vI91s1ADAvQ?si=3nybIzSRfmcPNt1X)
+- [LinkedIn Post](https://www.linkedin.com/posts/imanojchandra_the-sparks-founation-grip-task-2-prediction-activity-7208756119328952320-7Jbm?utm_source=share&utm_medium=member_desktop)
 
 ## Community Engagement
 During my internship, I actively participated in The Sparks Foundation network group on LinkedIn. I conducted 15 peer review evaluations and assisted more than 15 fellow interns with their doubts and queries.
@@ -67,17 +67,18 @@ During my internship, I actively participated in The Sparks Foundation network g
 I am immensely grateful to The Sparks Foundation for this incredible learning opportunity. This internship has significantly enhanced my skills in data science, machine learning, and data visualization. I look forward to applying these skills in future projects and contributing to the field of data science.
 
 ## How to Apply
-Interested in Data Science and eager to make an impact? Apply for the GRIP June 2024 internship at The Sparks Foundation:
-- [Apply Now](https://lnkd.in/eEWxzSRH)
+Apply for the GRIP June 2024 internship at The Sparks Foundation:
+- [Apply Now](https://internship.thesparksfoundation.info/)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-profile)
-
----
-
-**#TheSparksFoundation #GRIPJUNE24 #DataScienceInternship #DataScience #MachineLearning #UnsupervisedLearning #Clustering #IrisDataset #DataVisualization #TSF #Analytics #ML #AI #DataInsights #LinearRegression #Python #DataAnalytics #InternshipExperience #PredictiveModeling**
+- [LinkedIn](https://www.linkedin.com/in/imanojchandra)
+- [GitHub](https://github.com/imanojchandra)
 
 ---
 
 Special thanks to The Sparks Foundation and fellow interns for their continuous support. Looking forward to applying these skills to future projects and making meaningful contributions in the field of data science.
+
+---
+
+**#TheSparksFoundation #GRIPJUNE24 #DataScienceInternship #DataScience #MachineLearning #UnsupervisedML #SupervisedML #KMeans #Clustering #LinearRegression #IrisDataset #TSF #Analytics #ML #AI #DataInsights #Python #DataAnalytics #InternshipExperience #PredictiveModeling**
+
